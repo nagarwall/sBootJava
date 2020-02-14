@@ -24,3 +24,5 @@ https://www.logicbig.com/tutorials/core-java-tutorial/java-collections/java-coll
 
 https://dzone.com/articles/creating-a-rest-web-service-with-java-and-spring-p
 
+https://www.nginx.com/blog/deploying-microservices/
+
