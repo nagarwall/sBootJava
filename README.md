@@ -11,3 +11,9 @@ https://medium.com/better-programming/building-a-spring-boot-rest-api-a-php-deve
 https://start.spring.io/
 
 https://cloud.netapp.com/hubfs/Guide-Migrating-Enterprise-Workloads-to-the-Cloud/NetApp's-Guide-To-Migrating-Enterprise-Workloads-To-The-Cloud.pdf
+
+https://spring.io/guides/gs/rest-service/
+
+https://www.geeksforgeeks.org/javabean-class-java/
+
+https://www.edureka.co/blog/what-is-javabeans/
