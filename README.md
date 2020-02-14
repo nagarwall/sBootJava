@@ -38,3 +38,5 @@ http://www.java2novice.com/
 https://www.linuxtopia.org/online_books/programming_books/thinking_in_java/TIJ313_018.htm
 
 https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+
+https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
