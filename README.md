@@ -19,3 +19,8 @@ https://www.geeksforgeeks.org/javabean-class-java/
 https://www.edureka.co/blog/what-is-javabeans/
 
 https://dzone.com/articles/istio-service-mesh-control-plane
+
+https://www.logicbig.com/tutorials/core-java-tutorial/java-collections/java-collection-cheatsheet.html
+
+https://dzone.com/articles/creating-a-rest-web-service-with-java-and-spring-p
+
