@@ -26,3 +26,15 @@ https://dzone.com/articles/creating-a-rest-web-service-with-java-and-spring-p
 
 https://www.nginx.com/blog/deploying-microservices/
 
+https://www3.ntu.edu.sg/home/ehchua/programming/index.html#clientSide
+
+https://www.baeldung.com/spring-boot-starters
+
+https://www.javatpoint.com/
+https://developer.ibm.com/technologies/spring/tutorials/j-spring-boot-basics-perry
+
+http://www.java2novice.com/
+
+https://www.linuxtopia.org/online_books/programming_books/thinking_in_java/TIJ313_018.htm
+
+https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
