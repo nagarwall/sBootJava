@@ -17,3 +17,5 @@ https://spring.io/guides/gs/rest-service/
 https://www.geeksforgeeks.org/javabean-class-java/
 
 https://www.edureka.co/blog/what-is-javabeans/
+
+https://dzone.com/articles/istio-service-mesh-control-plane
